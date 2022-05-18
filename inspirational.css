@@ -1,0 +1,22 @@
+body{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(247, 242, 204, 0.7),rgba(247,242,204,0.7)),url("https://wallpaper.dog/large/10903726.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align:center ;
+    font-size: 30px;
+    color: rgb(42, 10, 92);
+}
+a{
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+    color:rgb(247, 18, 37);
+}

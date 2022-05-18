@@ -1,0 +1,18 @@
+body{
+    min-height: 100vh;
+    background-image:linear-gradient(rgba(248, 192, 159, 0.7),rgba(248,192,159,0.7)),url("https://images.shiksha.com/mediadata/images/articles/1577968872phpc3SxB5.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    text-align: center;
+}
+h1{
+    text-align:center ;
+    font-size: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(42, 10, 92);
+}
+.story a {
+    text-decoration: none;
+    font-size: 40px;
+}
